@@ -40,3 +40,4 @@
 ##效果图
 ![](https://github.com/xandone/TextVerticalDemo/blob/master/demo20160907.png)
 
+1[](https://github.com/xandone/TextVerticalDemo/blob/master/demo2.png)
