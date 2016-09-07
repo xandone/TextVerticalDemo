@@ -1,4 +1,5 @@
-# 书法字体，竖直排布，从右至左.
+# 一个适配古诗词的简单ViewGroup组件
+###书法字体，竖直排布，从右至左.
 ####This is a text vertical group demo !
 ###1.字体颜色
 ```Java
