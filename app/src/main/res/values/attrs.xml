@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TextVerticalGroup">
+        <attr name="group_content" format="string" />
+        <attr name="group_sentence" format="integer" />
+        <attr name="group_color" format="color" />
+        <attr name="group_size" format="dimension" />
+
+    </declare-styleable>
+
+</resources>
