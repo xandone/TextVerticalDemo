@@ -5,7 +5,7 @@
   public void setContentColor(int color) {
         this.groupColor = color;
     }
-    ```
+```
 
 ##效果图
 ##![](https://github.com/xandone/TextVerticalDemo/blob/master/demo20160907.png)
