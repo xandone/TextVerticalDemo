@@ -9,7 +9,7 @@
         android:layout_width="150dp"
         android:layout_height="220dp"
         app:group_color="#00f"
-        app:group_content="昔人已乘黄鹤去，此地空余黄鹤楼。 黄鹤一去不复返，白云千载空悠悠。 晴川历历汉阳树，芳草萋萋鹦鹉洲。 日暮乡关何处是? 烟波江上使人愁。"
+        app:group_content="昔人已乘黄鹤去，此地空余黄鹤楼。 黄鹤一去不复返，白云千载空悠悠。 晴川历历汉阳树，芳草萋萋鹦鹉洲。"
         app:group_sentence="2"
         app:group_size="12sp" />
 
