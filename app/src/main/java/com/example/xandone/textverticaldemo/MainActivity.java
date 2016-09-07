@@ -1,12 +1,12 @@
 package com.example.xandone.textverticaldemo;
 
+import android.app.Activity;
 import android.graphics.Color;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.example.xandone.textverticaldemo.view.TextVerticalGroup;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends Activity {
 
 
     @Override
